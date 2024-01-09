@@ -9,5 +9,5 @@ module.exports = defineConfig({
     },
     defaultCommandTimeout: 10000,
   },
-  projectId: 'cnt9se',
+  projectId: '6298h9',
 })
